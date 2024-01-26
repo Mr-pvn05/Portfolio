@@ -11,7 +11,7 @@ const Projects = () => {
               className="flex mx-8 flex-col items-center rounded-md shadow-2xl gap-4 my-4 md:p-4"
               key={projects.title}
             >
-              <img src={projects.imgURL}/>
+              <img src={projects.imgURL} alt={projects.title}/>
               <div className="flex flex-col gap-3 p-3 md:p-0">
                 <div className="flex flex-col gap-4">
                   <h6 className="text-xl">{projects.title}</h6>
