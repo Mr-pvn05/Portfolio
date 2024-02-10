@@ -45,7 +45,7 @@ const AboutMe = () => {
       {/* Social Links  */}
 
       <div className="mt-20 lg:my-2 text-center">
-        <img  src="./src/images/girl-01.png" alt="" width={400} />
+        <img  src="/public/images/girl-01.png" alt="" width={400} />
         <h3 className="my-[28px] text-3xl">Find me on GitHub & LinkedIn</h3>
         <h6 className="text-base my-[16px]">GitHub <a className="text-[#17a2b8]" rel="noreferrer" target="_blank" href="https://github.com/Mr-pvn05?tab=repositories">@praveenSingh</a></h6>
         <h6 className="text-base">LinkedIn <a className="text-[#17a2b8]" rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/praveen-singh-9b260b255/">@praveenSingh</a></h6>
