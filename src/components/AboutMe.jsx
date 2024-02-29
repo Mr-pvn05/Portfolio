@@ -9,7 +9,7 @@ const AboutMe = () => {
         </p>
         <hr className="my-3"/>
         <h4 className="text-[24px]">My Expertise</h4>
-        <p className="text-[#4b5156] my-4">Frontend Developer with primary focus on React and Javascript : <a className="text-[#17a2b8]" target="_blank" href="/images/myResume.pdf" download="myResume.pdf">View Resume</a></p>
+        <p className="text-[#4b5156] my-4">Frontend Developer with primary focus on React and Javascript : <a className="text-[#17a2b8]" target="_blank" href="/images/praveen.pdf" download="praveen.pdf">View Resume</a></p>
         <div className="flex justify-between bg-[#f0ead6] py-4 px-8">
           <ul className="text-[#4b5156]">
             <li>
