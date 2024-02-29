@@ -9,7 +9,7 @@ const AboutMe = () => {
         </p>
         <hr className="my-3"/>
         <h4 className="text-[24px]">My Expertise</h4>
-        <p className="text-[#4b5156] my-4">Frontend Developer with primary focus on React and Javascript : <a className="text-[#17a2b8]" target="_blank" href="./src/constants/resume.pdf" download="resume.pdf">View Resume</a></p>
+        <p className="text-[#4b5156] my-4">Frontend Developer with primary focus on React and Javascript : <a className="text-[#17a2b8]" target="_blank" href="/images/myResume.pdf" download="myResume.pdf">View Resume</a></p>
         <div className="flex justify-between bg-[#f0ead6] py-4 px-8">
           <ul className="text-[#4b5156]">
             <li>
@@ -44,7 +44,7 @@ const AboutMe = () => {
 
       {/* Social Links  */}
 
-      <div className="mt-20 lg:my-2 text-center">
+      <div className="mt-20 lg:my-2 text-center flex flex-col justify-center items-center">
         <img  src="/images/girl-01.png" alt="" width={400} />
         <h3 className="my-[28px] text-3xl">Find me on GitHub & LinkedIn</h3>
         <h6 className="text-base my-[16px]">GitHub <a className="text-[#17a2b8]" rel="noreferrer" target="_blank" href="https://github.com/Mr-pvn05?tab=repositories">@praveenSingh</a></h6>
